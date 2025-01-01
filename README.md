@@ -1,4 +1,4 @@
-# telegraph-simple-paser
+# telegraph-simple-parser
 
 Простой парсер страниц сайта telegraph  
 Комментариев нет  
